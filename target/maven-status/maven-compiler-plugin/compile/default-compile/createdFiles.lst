@@ -1,0 +1,5 @@
+deliveroo2/consumerprototype/Order.class
+deliveroo2/consumerprototype/TopicConfig.class
+deliveroo2/consumerprototype/KafkaConsumerConfig.class
+deliveroo2/consumerprototype/ConsumerPrototypeApplication.class
+deliveroo2/consumerprototype/OrderConsumer.class
